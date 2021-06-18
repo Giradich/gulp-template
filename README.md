@@ -1,6 +1,10 @@
 # Сборка для верстки
 ![alt text](https://badgen.net/github/release/webzlodimir/gulp-template "Releases")
 
+# Личный проект "Ромашка"
+
+* Студент: [Юрий](https://www.facebook.com/)
+
 ## Подготовка к работе
 
 1. `git clone git@github.com:webzlodimir/gulp-template.git`
